@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Desktop\TextReader\TextReader\bin\Debug\TextReader.exe.config
+C:\Users\Lenovo\Desktop\TextReader\TextReader\bin\Debug\TextReader.exe
+C:\Users\Lenovo\Desktop\TextReader\TextReader\bin\Debug\TextReader.pdb
+C:\Users\Lenovo\Desktop\TextReader\TextReader\obj\Debug\TextReader.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\TextReader\TextReader\obj\Debug\TextReader.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\TextReader\TextReader\obj\Debug\TextReader.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\TextReader\TextReader\obj\Debug\TextReader.exe
+C:\Users\Lenovo\Desktop\TextReader\TextReader\obj\Debug\TextReader.pdb
+C:\Users\Lenovo\Desktop\TextReader\TextReader\obj\Debug\TextReader.FormMain.resources
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\bin\Debug\TextReader.exe.config
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\obj\Debug\TextReader.exe
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\obj\Debug\TextReader.pdb
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\bin\Debug\TextReader.exe
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\bin\Debug\TextReader.pdb
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\obj\Debug\TextReader.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\obj\Debug\TextReader.FormMain.resources
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\obj\Debug\TextReader.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\مشاريع\جاهزة للرفع\TextReader\TextReader\obj\Debug\TextReader.csproj.GenerateResource.Cache
